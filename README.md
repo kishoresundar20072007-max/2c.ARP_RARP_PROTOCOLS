@@ -74,9 +74,11 @@ client.close()
 ~~~
 ## OUPUT - ARP
 SERVER-OUTPUT:
+
 <img width="764" height="313" alt="image" src="https://github.com/user-attachments/assets/7d70ee05-739e-4e5b-836e-6bdd78e2c587" />
 
 CLIENT-OUTPUT:
+
 <img width="678" height="283" alt="image" src="https://github.com/user-attachments/assets/6df0a2ed-6e6e-4cc7-8f34-3fb3832a164f" />
 
 
@@ -196,9 +198,11 @@ client.close()
 OUTPUT:
 
 SERVER:
+
 <img width="740" height="320" alt="Screenshot 2026-02-12 162621" src="https://github.com/user-attachments/assets/44cf2b4e-3830-40f5-8ebb-97e84f7acd13" />
 
 CLIENT:
+
 <img width="648" height="297" alt="Screenshot 2026-02-12 162651" src="https://github.com/user-attachments/assets/88f6dad6-b269-4e20-9f6b-ac633827abe1" />
 
 
